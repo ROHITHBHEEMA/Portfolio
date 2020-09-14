@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-    <link rel="icon" type="image/png" href="assets/logo/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="images/icon.jpg" sizes="32x32" />
 
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
@@ -71,7 +71,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand text-uppercase" href="#">Rohith Bheema</a>
+                        <a class="navbar-brand text-uppercase" href="#">Rohith</a>
                     </div>
 
                     <div class="collapse navbar-collapse" id="myNavbartop">
@@ -448,7 +448,7 @@
                             <a href=""  alt="MathPass Link">
                             <div class="portfolio-item-ct">
                                 <div class="thumbnail">
-                                    <img src="images/project3.png" alt="fundraiser" class="img-responsive">
+                                    <img src="images/project3.jpg" alt="fundraiser" class="img-responsive">
                                     
                                 </div>
                                 <div class="caption portfolio-details">
@@ -477,7 +477,7 @@
                             <a href="https://www.iitbbs.ac.in/cdc/index.php" target="_blank" alt="MathPass Link">
                             <div class="portfolio-item-ct">
                                 <div class="thumbnail">
-                                    <img src="images/project2.png" alt="fundraiser" class="img-responsive">
+                                    <img src="images/project2.jpg" alt="fundraiser" class="img-responsive">
                                     
                                 </div>
                                 <div class="caption portfolio-details">
@@ -509,7 +509,7 @@
                                             <a href="http://fundraiser.wissenaire.org/index.php" target="_blank" alt="MathPass Link">
                                             <div class="portfolio-item-ct">
                                                 <div class="thumbnail">
-                                                    <img src="images/project1.png" alt="fundraiser" class="img-responsive">
+                                                    <img src="images/project1.jpg" alt="fundraiser" class="img-responsive">
                                                     
                                                 </div>
                                                 <div class="caption portfolio-details">
@@ -607,7 +607,7 @@
                         <div class="box text-center new">
                                             <span class="pic-service hvr-pulse-grow">
 
-                                                <img src="images/icon.png" height="100px" width="auto" alt="">
+                                                <img src="images/icon.jpg" height="100px" width="auto" alt="">
                                         </span>
                             <h3 class="text-center">Rohith Bheema</h3>
                             
@@ -662,7 +662,7 @@
                     <a href="https://twitter.com/bheema_rohith"><i class="fab fa-twitter-square fa-3x" aria-hidden="true"></i></a>
                 </div>
                 <br>
-                Rohith Bheema's Personal Website. All Right Reserved <i class="fa fa-copyright"></i> 2020.</i>
+                Rohith Bheema's Personal Website.
             </h4>
         </footer>
         
