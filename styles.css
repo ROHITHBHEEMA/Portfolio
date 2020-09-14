@@ -235,6 +235,8 @@ a:hover{
 
 .block {margin-bottom: 10px}
 
+
+
 .box {
     padding: 40px 20px;
     background-color: #fff;
@@ -249,6 +251,13 @@ a:hover{
     font-family: 'Open Sans', sans-serif;
 }
 */
+.new{
+    height: 350px;
+}
+
+.marg{
+    margin-left: 20px;
+}
 
 .boxone,.boxtow {
     height: 150px;
@@ -426,3 +435,9 @@ footer p {
     color: #33afc4;
     border-color: #33afc4;
   }
+
+
+
+/* a:hover ,.hovi {
+       background-color:black;
+  } */
