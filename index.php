@@ -18,7 +18,7 @@
 
     <script src="https://kit.fontawesome.com/0a5ed7b6d5.js" crossorigin="anonymous"></script>
 
-    <!-- <link rel="stylesheet" href="./styles.css"> -->
+    <link rel="stylesheet" href="./styl.css">
 
 
     <link rel="stylesheet" hreft="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css">
