@@ -60,25 +60,34 @@
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
 <!-- partial:index.partial.html -->
-<!-- Navigation-->
-        <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+<!--Start Navigation bar -->
+        <div id="navBar" class="nav navbar-default navbar-fixed-top" >
             <div class="container">
-                <a class="navbar-brand js-scroll-trigger" href="#page-top"><h1>ROHITH</h1></a>
-                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                    Menu
-                    <i class="fas fa-bars ml-1"></i>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav text-uppercase ml-auto">
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#">Home</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#aboutMe">About</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#myProjects">Projects</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Contact</a></li>
-                        <li><a  href = "files/resume.pdf" target = "_blank" class="hvr-underline-from-center">Resume</a></li>
-                    </ul>
+                <div class="row">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbartop" aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand text-uppercase" href="#">Rohith</a>
+                    </div>
+
+                    <div class="collapse navbar-collapse" id="myNavbartop">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li class="active"><a href="#" class="hvr-underline-from-center">Home<span class="sr-only">(current)</span></a></li>
+                            <li><a href="#aboutMe" class="hvr-underline-from-center">About</a></li>
+                            <li><a href="#myProjects" class="hvr-underline-from-center">Projects</a></li>
+                            <li><a href="#contact" class="hvr-underline-from-center">Contact</a></li>
+                            <li><a  href = "files/resume.pdf" target = "_blank" class="hvr-underline-from-center">Resume</a></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
-        </nav>
+        </div>
+        <!--End Navigation bar -->
+
 
         <!--Start Banner-->
         <div class="row">
